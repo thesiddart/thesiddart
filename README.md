@@ -6,10 +6,9 @@
 
 ## 🛠 Tools & Skills
 
-- 🧠 UX Research & Strategy
-- 🎨 UI Design (Figma, Fimga Make)
+- 🧠 Product Design (UX Research & Strategy,Design Systems & Responsive Layout, UI Design)
+- 💻 Figma, Fimga Make
 - ⚙️ Front-end Prototyping (HTML, CSS, JS)
-- 🚀 Design Systems & Responsive Layout
 - 📐 Interaction & Visual Design
 
 ---
