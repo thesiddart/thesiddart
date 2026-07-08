@@ -1,19 +1,35 @@
-# Hi 👋, I'm Siddhartha Dwivedi
+# Hey! I'm Siddhartha Dwivedi
 
-### 🎨 Product Designer from Nepal 🇳🇵
+Product Designer based in Kathmandu, Nepal.
 
----
-
-## 🛠 Tools & Skills
-
-- 🧠 Product Design (UX Research & Strategy,Design Systems & Responsive Layout, UI Design)
-- 💻 Figma, Fimga Make
-- ⚙️ Front-end Prototyping (HTML, CSS, JS)
-- 📐 Interaction & Visual Design
+I design B2B and B2C digital products, with a focus on UX research, systems thinking, and interfaces that hold up under real use.
 
 ---
 
-## 📫 Connect with Me
+### Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-dwivedi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/the.siddart)
+- Product (UI/UX) Engineer @ Dormo Solutions
+- Organizer @ Think Purple — a community initiative for accessible, collaborative design education
+
+---
+
+### Products
+
+- **[Stacklite](https://stacklite.live)** — a freelancer OS
+- **[Snaploom](https://snaploom.siddart.net)** — make your event memorable
+
+---
+
+### Tools
+
+Figma · Figma Make · Claude · HTML/CSS/JS for prototyping
+
+### Focus areas
+
+UX Research & Product Strategy · Design Systems · Interaction Design · Responsive UI
+
+---
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/siddhartha-dwivedi/) · [Instagram](https://www.instagram.com/the.siddart)
